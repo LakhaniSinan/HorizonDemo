@@ -2,7 +2,7 @@
   "name": "ihorizon",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://LakhaniSinan.github.io/HorizonDemo",
+  "homepage": "https://LakhaniSinan.github.io/",
   "dependencies": {
     "@emotion/core": "^10.0.28",
     "@testing-library/jest-dom": "^4.2.4",
