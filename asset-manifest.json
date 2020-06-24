@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/HorizonDemo/static/css/main.61b28c0f.chunk.css",
+    "main.js": "/HorizonDemo/static/js/main.f360ae66.chunk.js",
+    "main.js.map": "/HorizonDemo/static/js/main.f360ae66.chunk.js.map",
+    "runtime-main.js": "/HorizonDemo/static/js/runtime-main.4d522a8f.js",
+    "runtime-main.js.map": "/HorizonDemo/static/js/runtime-main.4d522a8f.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/HorizonDemo/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8fd5af51.chunk.js": "/HorizonDemo/static/js/2.8fd5af51.chunk.js",
+    "static/js/2.8fd5af51.chunk.js.map": "/HorizonDemo/static/js/2.8fd5af51.chunk.js.map",
+    "index.html": "/HorizonDemo/index.html",
+    "precache-manifest.7006c75ecb1453681d1a3b2fbbd5a764.js": "/HorizonDemo/precache-manifest.7006c75ecb1453681d1a3b2fbbd5a764.js",
+    "service-worker.js": "/HorizonDemo/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/HorizonDemo/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.61b28c0f.chunk.css.map": "/HorizonDemo/static/css/main.61b28c0f.chunk.css.map",
+    "static/js/2.8fd5af51.chunk.js.LICENSE.txt": "/HorizonDemo/static/js/2.8fd5af51.chunk.js.LICENSE.txt",
+    "static/media/ihorizon.png": "/HorizonDemo/static/media/ihorizon.d44ee16c.png",
+    "static/media/logo1.png": "/HorizonDemo/static/media/logo1.9305a295.png",
+    "static/media/logo2.png": "/HorizonDemo/static/media/logo2.9042f8b7.png",
+    "static/media/logo3.png": "/HorizonDemo/static/media/logo3.66a2fd04.png",
+    "static/media/logo4.png": "/HorizonDemo/static/media/logo4.ffcf8cae.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d522a8f.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.8fd5af51.chunk.js",
+    "static/css/main.61b28c0f.chunk.css",
+    "static/js/main.f360ae66.chunk.js"
+  ]
+}
